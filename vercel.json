@@ -1,0 +1,14 @@
+{
+  "bluids": [
+    {
+      "src": "django_proyect/wsgi.py",
+      "use": "@vercel/python"
+      }
+    ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "django_proyect/wsgi.py"
+    }
+  ]
+}
