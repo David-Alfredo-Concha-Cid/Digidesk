@@ -15,7 +15,9 @@ El proyecto Digidesk se centra en sincronizar y guardar los digimones en la pág
 ## Objetivos:
 
 •	Sincronizar los digimones provenientes de la API Digimons.
+
 •	Almacenar los digimones sincronizados en una base de datos PostgrestSql.
+
 •	Mantener actualizada la información de los digimones en la página https://digidesk-concha-david.vercel.app/.
 
 ## Requerimientos y otros detalles:
