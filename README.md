@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Proyecto Digidesk – GitHub</h1>
+  <h1>Proyecto Digidesk </h1>
 </div>
 
 ## Antecedentes:
